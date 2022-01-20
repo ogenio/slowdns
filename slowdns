@@ -3,6 +3,7 @@ clear
 slowdns () {
 echo -e "\033[1;31m════════════════════════════════════════════════════\033[0m"
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "GÊNIO HACKER SLOWDNS V4.0" ; tput sgr0
+echo -e "\033[1;31m════════════════════════════════════════════════════\033[0m"
 figlet "    SLOWDNS X" | lolcat
     echo ""
     echo -e "\033[0;36m[01]\033[m | INSTALAR SLOWDNS SSH"
